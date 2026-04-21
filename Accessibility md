@@ -1,0 +1,16 @@
+# Accessibility Audit Report
+
+## Issues Found
+1. Images missing `alt` attributes
+2. Link text was generic on placeholder links
+3. No `lang` attribute on `<html>` initially
+
+## How I Fixed Them
+1. Added descriptive `alt="Portrait placeholder for Juliet Adhiambo"` to all `<img>` tags
+2. Changed link text from "click here" to "MDN Web Docs"
+3. Added `lang="en"` to `<html>` tag on all pages
+4. Used proper heading hierarchy: h1 for page title, h2 for sections
+5. All form inputs have associated `<label for="">` elements
+
+## Final Lighthouse Accessibility Score
+100/100 - All accessibility audits passed
