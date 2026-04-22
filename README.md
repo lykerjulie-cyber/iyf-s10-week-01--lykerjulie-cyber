@@ -1,7 +1,7 @@
 # IYF S10 Week 01: Web Foundations - Juliet Adhiambo
 
 ## 🔗 Live Site
-**https://lykerjulie-cyber.github.io/iyf-s10-week-01--lykerjulie-cyber/**
+**https://lykerjulie-cyber.github.io/iyf-s10-week-01-lykerjulie-cyber/**
 
 ## 📋 Project Description
 Multi-page personal portfolio website built with semantic HTML5 for IYF Weekend Academy Season 10, Week 01. This project demonstrates web foundations including environment setup, semantic markup, accessibility, and deployment via GitHub Pages.
@@ -30,8 +30,23 @@ The site includes 4 main pages plus 5 daily coding challenges, DevTools explorat
 - [x] **Day 5**: Blog Post Layout - `challenges/day5-blog.html` with article, metadata, aside
 
 ## 📁 Repository Structure
+    iyf-s10-week-01-lykerjulie-cyber/
+   ├── index.html
+   ├── about.html
+   ├── projects.html
+   ├── contact.html
+   ├── semantic-conversion.html
+   ├── devtools-exploration.md
+   ├── accessibility-report.md
+   ├── challenges/
+   │   ├── day1-five-tags.html
+   │   ├── day2-nav.html
+   │   ├── day3-contact-section.html
+   │   ├── day4-gallery.html
+   │   └── day5-blog.html
+   └── images/
 ## 🚀 How to Run Locally
-1. Clone the repository:2. Open folder in VS Code
+1. Clone the repository:   git clone https://github.com/lykerjulie-cyber/iyf-s10-week-01-lykerjulie-cyber.git2. Open folder in VS Code
 3. Right-click `index.html` → "Open with Live Server"
 
 ## 🔍 Validation & Accessibility
